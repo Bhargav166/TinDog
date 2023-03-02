@@ -81,3 +81,38 @@ body {
 .feature_icons:hover {
     color: #c74b5b;
 }
+
+
+/* Testimonials */
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+#testimonials h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.testimonial_image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Press */
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press_logo {
+    width: 15%;
+    padding: 20px 20px 50px;
+}
+
+/* Pricing */
